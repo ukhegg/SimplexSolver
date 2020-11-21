@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplexSolver", "SimplexSolver\SimplexSolver.csproj", "{60E36E2B-B649-4F03-A09D-0E4BC1F0EDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4C53A67E-1683-492A-89D9-AF5E35C53A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E36E2B-B649-4F03-A09D-0E4BC1F0EDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E36E2B-B649-4F03-A09D-0E4BC1F0EDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E36E2B-B649-4F03-A09D-0E4BC1F0EDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E36E2B-B649-4F03-A09D-0E4BC1F0EDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C53A67E-1683-492A-89D9-AF5E35C53A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C53A67E-1683-492A-89D9-AF5E35C53A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C53A67E-1683-492A-89D9-AF5E35C53A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C53A67E-1683-492A-89D9-AF5E35C53A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E0292B-0A09-4C5A-9FD5-632777EA8ED8}
+	EndGlobalSection
+EndGlobal
